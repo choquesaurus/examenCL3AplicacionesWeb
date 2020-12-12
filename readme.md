@@ -2,10 +2,10 @@
 
 Este modulo listara el factorial de los n primeros números y creara una tablaa con esa lista factorial
 ## Tabla de opciones
-* [Listar lista factorial](#lista)
+* [Listar lista factorial](#Lista)
     - [limite de numeros](#LimitList)
 
-- [Crear tabla](#tabla)
+- [Crear tabla](#Tabla)
     - [limite de numeros](#LimitTable) 
 
 ## Pre requisitos
@@ -24,6 +24,8 @@ via ssh
 
     $ git clone git@github.com:choquesaurus/examenCL3AplicacionesWeb.git
     
+## Lista
+
 
 #### LimitList
 Ejecuta desde tu terminal el siguiente comando para listar numeros factoriales indicando un limite.
@@ -40,6 +42,8 @@ or
     $ node index.js listar --limite 7
 
 ```
+## Tabla
+
 #### LimitTable
 Ejecuta desde tu terminal el siguiente comando para guardar en un archivo excel la lista de numeros factoriales indicando un limite.
 
