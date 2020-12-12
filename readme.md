@@ -1,6 +1,12 @@
 # Aplicacionde consola
 
 Este modulo listara el factorial de los n primeros números y creara una tablaa con esa lista factorial
+## Tabla de opciones
+* [Listar lista factorial](#lista)
+    - [limite de numeros](#LimitList)
+
+- [Crear tabla](#tabla)
+    - [limite de numeros](#LimitTable) 
 
 ## Pre requisitos
 
@@ -8,7 +14,7 @@ Este modulo listara el factorial de los n primeros números y creara una tablaa 
 
 ## Uso
 
-Ejecuta desde tu terminal el siguiente comando :
+Ejecuta desde tu terminal el siguiente comando para clonar :
 
 via https
 
@@ -50,12 +56,6 @@ or
 
 ```
 
-## Opciones
-- [Listar lista factorial](#lista)
-    - [limite de numeros](#LimitList)
-
-- [Crear tabla](#tabla)
-    - [limite de numeros](#LimitTable) 
 
 ## Autor
 
