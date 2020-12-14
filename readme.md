@@ -11,7 +11,12 @@ Este modulo listara el factorial de los n primeros números y creara una tablaa 
 ## Pre requisitos
 
 - Se requiere conexión a internet
-
+- Instalar dependencias ejecutando el siguiente comando en su terminal
+    
+```console
+    $ npm install
+```        
+    
 ## Uso
 
 Ejecuta desde tu terminal el siguiente comando para clonar :
